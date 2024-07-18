@@ -11,9 +11,7 @@ Real-time chat application using Firebase. React chat app project.
 ## What I have done
 
 * Chat App Database Structure: Setup and maintain the chat application database using Firebase.
-* React Chat Application Design Tutorial: Step-by-step guide on designing the chat application with React.
 * CSS Glass Background Effect: Implementation of modern and stylish glass background effects using CSS.
-* Chat App Components: Modular components for different parts of the chat application.
 * Chat List Design: Design and functionality for displaying a list of chats.
 * React Search Bar Design: Interactive search bar for finding users and chats.
 * User List Design: Component for displaying a list of users.
