@@ -4,7 +4,7 @@ Real-time chat application using Firebase. React chat app project.
 ## Built With
 
 * [React](https://reactjs.org/)
-* [Firebase]((https://firebase.google.com/))
+* [Firebase](https://firebase.google.com/)
 * [Vite](https://vitejs.dev/)
 * [Zustand]()
 
@@ -23,8 +23,7 @@ Real-time chat application using Firebase. React chat app project.
 * React Login Page Design: Design and implementation of the login page.
 * React Notification Library (React Toastify): Adding notifications using React Toastify.
 * Add New User Component: Component for adding new users.
-* React Firebase Tutorial 2024: Comprehensive tutorial on integrating Firebase with React.
-* React Firebase Authentication Tutorial: Guide on setting up Firebase authentication.
+* React Firebase Authentication : Guide on setting up Firebase authentication.
 * React Firebase Sign Up with Email and Password: Implementation of sign up functionality with Firebase.
 * React Firebase Add User Data to Firestore: Storing user data in Firestore after authentication.
 * React Firebase Upload Image: Uploading images to Firebase.
