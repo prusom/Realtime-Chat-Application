@@ -4,7 +4,7 @@ Real-time chat application using Firebase. React chat app project.
 ## Built With
 
 * [React](https://reactjs.org/)
-* [Firebase]([https://github.com/ReactTraining/react-router](https://firebase.google.com/))
+* [Firebase]((https://firebase.google.com/))
 * [Vite](https://vitejs.dev/)
 * [Zustand]()
 
@@ -48,7 +48,7 @@ Real-time chat application using Firebase. React chat app project.
 
 * Git clone the repositery :<br /> 
 ```
-git clone git@github.com:prusom/Marvel_API_k.git
+git clone git@github.com:prusom/Realtime-Chat-Application.git
 ```
 * Go into the client folder and Install Depedencies : <br />
 ```
